@@ -27,4 +27,5 @@ of Purchase: Number of purchases
 Two campaigns were performed by the company:
 Control Campaign
 Test Campaign
+
 Perform A/B testing to find the best campaign for the company to get more customers.
