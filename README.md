@@ -7,16 +7,24 @@
 
 Campaign Name: The name of the campaign
 Date: Date of the record
-Spend: Amount spent on the campaign in dollars
-of Impressions: Number of impressions the ad crossed through the campaign
-Reach: The number of unique impressions received in the ad
-of Website Clicks: Number of website clicks received through the ads
-of Searches: Number of users who performed searches on the website 
-of View Content: Number of users who viewed content and products on the website
-of Add to Cart: Number of users who added products to the cart
-of Purchase: Number of purchases
-Two campaigns were performed by the company:
 
+Spend: Amount spent on the campaign in dollars
+
+of Impressions: Number of impressions the ad crossed through the campaign
+
+Reach: The number of unique impressions received in the ad
+
+of Website Clicks: Number of website clicks received through the ads
+
+of Searches: Number of users who performed searches on the website 
+
+of View Content: Number of users who viewed content and products on the website
+
+of Add to Cart: Number of users who added products to the cart
+
+of Purchase: Number of purchases
+
+Two campaigns were performed by the company:
 Control Campaign
 Test Campaign
 Perform A/B testing to find the best campaign for the company to get more customers.
